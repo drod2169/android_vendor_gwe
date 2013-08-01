@@ -3,9 +3,9 @@ $(call inherit-product, vendor/gwe/config/common_full.mk)
 
 # Default ringtone
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.config.ringtone=Orion.ogg \
-    ro.config.notification_sound=Argon.ogg \
-    ro.config.alarm_alert=Hassium.ogg
+    ro.config.ringtone=Enter_the_Nexus.ogg \
+    ro.config.notification_sound=BentleyDubs.ogg \
+    ro.config.alarm_alert=Champagne_Edition.ogg
 
 PRODUCT_PACKAGES += \
   Mms
